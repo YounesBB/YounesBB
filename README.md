@@ -24,15 +24,6 @@
 <p><img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes" alt="dev quotes" /></p>
 
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
 <h3 >Languages:</h3>
 <a href="https://developer.mozilla.org/docs/Web/HTML/" target="_blank" rel="noreferrer"> <img src="./assets/html.svg" alt="HTML" width="60" height="60"/></a>
 <a href="https://developer.mozilla.org/docs/Web/javascript/" target="_blank" rel="noreferrer"> <img src="./assets/javascript.svg" alt="JavaScript" width="60" height="60"/></a>
