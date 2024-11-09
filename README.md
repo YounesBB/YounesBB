@@ -15,7 +15,6 @@
 - 📫 Don’t hesitate to get in touch if there are any exciting opportunities or projects!
 
 <p><a href="https://git.io/streak-stats"><img  src="https://streak-stats.demolab.com?user=YounesBB&theme=holi-theme&hide_border=true&mode=weekly" alt="GitHub Streak" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=YounesBB&show_icons=true&hide_border=true&theme=github_dark&locale=en" alt="GitHub Stats" /></p>
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=YounesBB&show_icons=true&hide_border=true&theme=github_dark&locale=en&layout=compact&hide_progress=true" alt="Github stats" /></p>
 
 <div style="clear:both;"></div>
