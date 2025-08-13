@@ -6,8 +6,6 @@
 
 - 🔥 I'm passionate about full-stack development and always interested in learning more and getting better at what I do. 
 
-- 🌱 I’m currently diving into [The Odin Project](https://www.theodinproject.com/about) to strengthen my full-stack JavaScript development skills! Next, I'm excited to explore and integrate TypeScript into my projects.
-
 - 🚀I'm into both technology and business, especially where they meet and the possibilities it creates.
 
 - 🌐 Check out my [website](https://younesbb.github.io/HomeBase/) to see some of my projects!
