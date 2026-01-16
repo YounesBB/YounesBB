@@ -1,5 +1,5 @@
 <h1 >Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">, I'm Younes</h1>
-<h3 >I am currently a Masters Computer Science student at the University of Oslo - UIO. Previously at NTNU (Bachelors)</h3>
+<h3 >I am currently a Masters student in Computer Science at the University of Oslo - UIO. Previously at NTNU (Bachelors)</h3>
 
 <img width="55%" align="right" alt="SVG image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <p > <img src="https://komarev.com/ghpvc/?username=YounesBB&label=Profile%20views&color=blueviolet&style=for-the-badge&base=20" alt="YounesBB" /> </p>
